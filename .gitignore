@@ -1,0 +1,9 @@
+# Nunca versionar nada vindo do repositório privado
+.env
+.env.*
+*.sqlite3
+*.py
+*.js
+*.jsx
+node_modules/
+.DS_Store
