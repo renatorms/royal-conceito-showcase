@@ -16,8 +16,6 @@
 
 **Designed, built and deployed end to end — backend, frontend, integrations and infrastructure.**
 
-### 🌐 [royalconceito.com.br](https://royalconceito.com.br)
-
 [About](#-about) · [Screenshots](#-screenshots) · [Features](#-features) · [Tech Stack](#-tech-stack) · [Architecture](#-architecture) · [Status](#-status) · [Developer](#-developer)
 
 <br>
@@ -172,7 +170,7 @@ The backend is a **modular monolith** — one Django project split into domain a
 
 ## 📌 Status
 
-Deployed to production at **[royalconceito.com.br](https://royalconceito.com.br)**. The complete purchase flow — live shipping quotes, payment link and automatic order confirmation via webhook — was validated end to end with a real payment.
+Delivered and deployed to production for the client. The complete purchase flow — live shipping quotes, payment link and automatic order confirmation via webhook — was validated end to end with a real payment.
 
 ---
 
